@@ -22,7 +22,7 @@ setup(
     version=extract_version(),
     author="Greg Lamp",
     author_email="greg@yhathq.com",
-    url="https://github.com/yhat/ggplot/",
+    url="https://github.com/niyamatalmass/ggnew/",
     license="BSD",
     packages=find_packages(),
     package_dir={ "ggplot": "ggplot" },
